@@ -42,20 +42,13 @@ The implementation was validated on the Iris dataset. The plots below are genera
 ### Scree Plot
 This plot clearly shows that the first two principal components capture over 95% of the total variance in the original 4-dimensional dataset, justifying the reduction to 2D for visualization.
 
-![Scree Plot](scree_plot.png)
-*(Note: Replace with your own generated scree_plot.png)*
-
 ### Component Loadings
 This heatmap reveals the composition of each principal component. We can interpret that PC1 is primarily a measure of the flower's overall size (high correlation with petal length/width and sepal length), while PC2 contrasts the sepal dimensions.
 
-![Loadings Heatmap](loadings_heatmap.png)
-*(Note: Replace with your own generated loadings_heatmap.png)*
 
 ### 2D Projection
 The final projection of the data onto the first two principal components shows excellent separation between the three Iris species.
 
-![2D Projection](projection_plot.png)
-*(Note: Replace with your own generated projection_plot.png)*
 
 ## How to Run
 
