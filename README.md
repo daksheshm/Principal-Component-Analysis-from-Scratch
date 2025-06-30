@@ -54,8 +54,8 @@ The final projection of the data onto the first two principal components shows e
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/daksheshm/Principal-Component-Analysis-from-Scratch.git
+    cd Principal-Component-Analysis-from-Scratch
     ```
 
 2.  **Install the required libraries:**
